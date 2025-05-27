@@ -1,5 +1,5 @@
 # Calculs_paralleles
 
-Haution Ilan
-Thiriet Esteban
+Haution Ilan \
+Thiriet Esteban \
 Armbruster Loup
